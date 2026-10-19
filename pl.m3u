@@ -890,20 +890,3 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-
-<=================================== RELIGION =========================================>
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://www.mqtv.co.id/wp-content/uploads/2024/06/Logo_MQTV_Original-768x194.webp" group-title="RELIGION",MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
-https://cdnbal1.indihometv.com/atm/DASH/mqtv/mqtv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-300x87.png" group-title="RELIGION",RodjaTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
-
-#EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="RELIGION",AL QURAN KAREEM (Makkah live)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
-
