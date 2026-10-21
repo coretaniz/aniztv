@@ -1,13 +1,5 @@
 # <================== INDONESIA FAV. CHANNEL (by: @aniz.djavu) ======================>
 #EXTM3U url-tvg="https://lc.cx/-hmiOg"
-#EXTINF:-1 group-title="V+ ANIZTV" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Bali United vs Garudayaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-#EXTINF:-1 group-title="V+ ANIZTV" tvg-logo="https://shorter.me/_bDcr", 19:00 Persija vs Arema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://www.visionplus.id/images/repository/720/507720-LOGO-m.png" group-title="V+ ANIZTV",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=1&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTI1NzY0Mjh8ZWRlZmRmMjdlNDQzODM1YjE0ODlmOWY1YTUzNzY3ZTY5N2IxOTJmNmI2MjU0MDYzYjkyNTZhZDUxOGM2NzNkMg
