@@ -569,7 +569,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
-#EXTINF:-1 tvg-logo="" group-title="Sports Universe",HBO BOXING
+#EXTINF:-1 tvg-logo="" group-title="Sports Channels",HBO BOXING
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
 #EXTINF:-1 tvg-id="FightSports.us@SD" group-title="Sports Channels" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fightsport.png",Fight Sports (Vision+)
@@ -1158,22 +1158,22 @@ https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7
 #KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
 https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Sports Universe",SKY SPORT PREMIER LEAGUE HD (RUTUBE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Sports Universe",SKY SPORT PREMIER LEAGUE HD
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Sports Universe",SKY SPORT F1 HD (RUTUBE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Sports Universe",SKY SPORT F1 HD
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports Universe",SKY SPORTS CRICKET HD (RUTUBE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports Universe",SKY SPORTS CRICKET HD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports Universe",SKY SPORTS GOLF HD (RUTUBE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports Universe",SKY SPORTS GOLF HD
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports Universe",SKY SPORTS RACING HD (RUTUBE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports Universe",SKY SPORTS RACING HD
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports Universe",SKY SPORT TENNIS HD (RUTUBE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports Universe",SKY SPORT TENNIS HD
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 
 #EXTINF:-1 group-title="Sports Universe",NHL NNETWORK [US]
